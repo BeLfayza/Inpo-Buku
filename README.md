@@ -2,7 +2,7 @@
 
 Aplikasi **Info Buku** adalah aplikasi Android yang memungkinkan pengguna untuk mencari novel/buku berdasarkan judul. Data diambil langsung dari **Open Library API** secara realtime.
 
-![Preview Video](https://github.com/user-attachments/assets/c766df77-31bc-4ef1-9167-8d5a61197e95)
+<img src="https://github.com/user-attachments/assets/c766df77-31bc-4ef1-9167-8d5a61197e95" width="50%">
 
 ---
 
